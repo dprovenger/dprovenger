@@ -1,5 +1,11 @@
 ### Hello World! 👋 
 
+#### TECH STACK
+
+CYBERSECURITY / NETWORK SECURITY / UNIX / ON-PREMISES / OPENSTACK / AWS / APACHE / MYSQL / GITHUB / TERRAFORM / BASH / PYTHON / HTML / CSS / REST API
+
+---
+
 <h3> 🤝🏻 &nbsp;Lets Connect! </h3>
 
 <p align="center">
