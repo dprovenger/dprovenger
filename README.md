@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello World! 👋 
 
-<!--
-**dprovenger/dprovenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 🤝🏻 &nbsp;Lets Connect! </h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://www.thepensivemind.com"><img alt="Website" src="https://img.shields.io/badge/Website-www.thepensivemind.com-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/jorge-arrieta-b92b2314/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jorge%20Arrieta-black?style=flat-square&logo=linkedin"></a>
+<a href="mailto:jorge.r.arrieta.jr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jorge.r.arrieta.jr@gmail.com-black?style=flat-square&logo=gmail"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<a href="https://github.com/dprovenger">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dprovenger&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dprovenger&theme=dark&layout=compact" />
+</a>
+
+⭐️ From [dprovenger](https://github.com/dprovenger)
+
+---
+
+![Profile views](https://gpvc.arturio.dev/dprovenger)
